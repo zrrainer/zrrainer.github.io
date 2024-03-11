@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - zrrainer
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - zrrainer/RPyIntegration
+  - zrrainer/cannibis-biomarker-case-study
+  - zrrainer/word2vec

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Volunteer at a href='https://glocalfoundation.ca/'>GLOCAL Foundation of Canada</a>.
+subtitle: Volunteer at <href='https://glocalfoundation.ca/'>GLOCAL Foundation of Canada</a>.
 
 profile:
   align: right
