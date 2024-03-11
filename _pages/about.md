@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Volunteer at a href='https://glocalfoundation.ca/'>GLOCAL Foundation of Canada</a>.
 
 profile:
   align: right
