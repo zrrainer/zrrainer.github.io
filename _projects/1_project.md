@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Case study report: cannibis biomarkers 
+title: Case study report - cannibis biomarkers 
 description: A case study on different biomarkers of recent cannibis use.
 img: assets/img/cs01_cover.jpg
 importance: 1
