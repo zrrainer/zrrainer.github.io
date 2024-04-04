@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Math tutoring
-permalink: /mathtutoring/
+permalink: /mtutoring/
 ---
 
 Courses offered:

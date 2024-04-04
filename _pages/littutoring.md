@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Litrature tutoring
-permalink: /littutoring/
+permalink: /ltutoring/
 ---
 Courses offered:
 -AP Literature
