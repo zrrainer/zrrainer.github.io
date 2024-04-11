@@ -3,11 +3,11 @@ layout: page
 title: Litrature tutoring
 permalink: /ltutoring/
 ---
-Courses offered:
--AP Literature
--Book club: short stories
-    Minimum 2h class. Includes: reading & discussion a short story of choice, brainstorming & rough draft of a short analysis paper
--Book club: novels
+Courses offered:  
+-AP Literature  
+-Book club: short stories  
+    Minimum 2h class. Includes:  reading & discussion a short story of choice, brainstorming & rough draft of a short analysis paper  
+-Book club: novels  
     Reading & discussing a novel of choice over the span of 1-3 months, depending on its length. Towards the end I will teach you how to formulate a formal literary analysis essay/paper, and aim to have it polished by the end.
 
 

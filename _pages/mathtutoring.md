@@ -4,13 +4,13 @@ title: Math tutoring
 permalink: /mtutoring/
 ---
 
-Courses offered:
--any pre-k - 8th grade math
--pre-algebra
--algebra
--pre-calculus
--AP Calculus AB/BC
--intro linear algebra
+Courses offered:  
+-any pre-k - 8th grade math  
+-pre-algebra  
+-algebra  
+-pre-calculus  
+-AP Calculus AB/BC  
+-intro linear algebra  
 
 ---
 

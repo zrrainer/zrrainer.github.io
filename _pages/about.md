@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Volunteer at <href='https://glocalfoundation.ca/'>GLOCAL Foundation of Canada</a>.
+subtitle: Operations coordinator at <href='https://zebrarobotics.com/langley'>Zebra Robotics Langely</a>. 
+Volunteer at <href='https://glocalfoundation.ca/'>GLOCAL Foundation of Canada</a>.
 
 profile:
   align: right
