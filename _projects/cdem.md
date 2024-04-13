@@ -2,7 +2,7 @@
 layout: page
 title: CDEM 2021 Canadian election study data
 description: data analysis report
-img: assets\img\cdemassets\cdemcover.png
+img: assets/img/cdemassets/cdemcover.png
 ---
 Some visualizations I created for GLOCAL's C-Dem project. Link to my repository is [here](https://github.com/zrrainer/Cdem?tab=readme-ov-file). The final report is posted on [GLOCAL'S website](https://glocalfoundation.ca/reports).
 
