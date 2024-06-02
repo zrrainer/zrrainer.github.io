@@ -3,14 +3,14 @@ layout: page
 title: Math tutoring
 permalink: /mtutoring/
 ---
-<span style="font-size:40.0pt">Courses offered:  </span>
+<span style="font-size:18.0pt">Courses offered:  </span>
   
--any pre-k - 8th grade math  
--pre-algebra  
--algebra  
--pre-calculus  
--AP Calculus AB/BC  
--intro linear algebra  
+- any pre-k - 8th grade math  vvv
+- pre-algebra  
+- algebra  
+- pre-calculus  
+- AP Calculus AB/BC  
+- intro linear algebra  
 
 ---
 
@@ -26,4 +26,6 @@ Ever since elementary, I've taught math to peers and aced every single math clas
 Location: in-person. Currently serving Walnut Grove, Willoughby and Carvolth area
   
 Availability & rates: Saturday after 4pm, Sunday 11am - 5pm. $25/hour
+
+You can reach me at zrrainer@gmail.com, or text 672-200-7793.
 
