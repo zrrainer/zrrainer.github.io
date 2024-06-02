@@ -4,6 +4,7 @@ title: Litrature tutoring
 permalink: /ltutoring/
 ---
 Courses offered:  
+  
 -AP Literature  
 -Book club: short stories  
     Minimum 2h class. Includes:  reading & discussion a short story of choice, brainstorming & rough draft of a short analysis paper  
@@ -21,6 +22,6 @@ I've been a reader ever since I started going through my grandma's bookshelf at 
 
 ---
 
-Location: in-person. Currently serving Walnut Grove, Willoughby and Carvolth area
+Location: in-person. Currently serving Walnut Grove, Willoughby and Carvolth area.
 
-Availability & rates: any time Sunday. $25/hour
+Availability & rates: Saturday after 4pm, Sunday 11am - 5pm. $25/hour
