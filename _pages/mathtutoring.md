@@ -7,13 +7,13 @@ Courses offered:
 ---
   
 - K-8th grade math
-
+  
 - Pre=algebra and algebra  
-
+  
 - Pre-calculus, differential and integral calculus
-
+  
 - AP Calculus AB/BC  
-
+  
 - Linear algebra  
 
 

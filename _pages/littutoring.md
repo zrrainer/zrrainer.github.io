@@ -15,8 +15,8 @@ Courses offered:
 - Book club: novels  
     <span style="font-size:10.0pt">Reading & discussing a novel of choice over the span of 1-3 months, depending on its length. Towards the end I will teach you how to formulate a formal literary analysis essay/paper, and aim to have it polished by the end.</span>
 
-- Manuscript evaluation
-<span style="font-size:10.0pt">feedback and editing suggestions for essays, fiction, nonfiction at every stage of the process. </span>
+- Manuscript evaluation  
+    <span style="font-size:10.0pt">feedback and editing suggestions for essays, fiction, nonfiction at every stage of the process. </span>
 
 <b>Location</b>: in-person Walnut Grove, Willoughby and Carvolth area / remote.
 
