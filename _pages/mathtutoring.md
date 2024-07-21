@@ -3,18 +3,23 @@ layout: page
 title: Math tutoring
 permalink: /mtutoring/
 ---
-<span style="font-size:18.0pt">Courses offered:  </span>
+Courses offered:
+---
   
-- any pre-k - 8th grade math  vvv
-- pre-algebra  
-- algebra  
-- pre-calculus  
-- AP Calculus AB/BC  
-- intro linear algebra  
+- K-8th grade math
 
-Location: in-person Walnut Grove, Willoughby and Carvolth area / remote.
+- Pre=algebra and algebra  
+
+- Pre-calculus, differential and integral calculus
+
+- AP Calculus AB/BC  
+
+- Linear algebra  
+
+
+<b>Location</b>: in-person Walnut Grove, Willoughby and Carvolth area / remote.
   
-Availability & rates: Saturday after 4pm, Sunday 10am - 5pm. $25/hour
+<b>Availability & rates</b>: Saturday after 4pm, Sunday 10am - 5pm. $25/hour
 
 You can reach me at zrrainer@gmail.com, or text 672-200-7793.
 
